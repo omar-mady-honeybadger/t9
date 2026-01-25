@@ -11,7 +11,7 @@ class ResultScreen extends StatelessWidget {
       return 'Underweight';
     } else if (bmi >= 18.5 && bmi < 24.9) {
       return 'Normal weight';
-    } else if (bmi >= 25 && bmi < 29.9) {
+    } else if (bmi >= 24.9 && bmi < 29.9) {
       return 'Overweight';
     } else {
       return 'Obesity';
@@ -23,7 +23,7 @@ class ResultScreen extends StatelessWidget {
       return Colors.yellow;
     } else if (bmi >= 18.5 && bmi < 24.9) {
       return Colors.green;
-    } else if (bmi >= 25 && bmi < 29.9) {
+    } else if (bmi >= 24.9 && bmi < 29.9) {
       return Colors.orange;
     } else {
       return Colors.red;
@@ -35,7 +35,7 @@ class ResultScreen extends StatelessWidget {
       return 'You are under the normal weight. You can eat a bit more.';
     } else if (bmi >= 18.5 && bmi < 24.9) {
       return 'You have a normal body weight. Good job!';
-    } else if (bmi >= 25 && bmi < 29.9) {
+    } else if (bmi >= 24.9 && bmi < 29.9) {
       return 'You are slightly overweight. Try to exercise more.';
     } else {
       return 'You are heavily overweight. Consult a doctor.';
