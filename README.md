@@ -5,8 +5,8 @@ A simple and modern BMI (Body Mass Index) calculator app built using Flutter. It
 ## 🖼️ Screenshots
  
 <p float="left">
-<img src="screenshots/home.png" width="45%" />
-<img src="screenshots/result.png" width="45%" />
+<img src="https://github.com/omar-mady-honeybadger/t9/blob/main/assets/Screenshot_20260126-005443.jpg" width="45%" />
+<img src="https://github.com/omar-mady-honeybadger/t9/blob/main/assets/Screenshot_20260126-005452.jpg" width="45%" />
 </p>
  
 ## 🚀 Features
@@ -44,4 +44,3 @@ BMI is a measure of body fat based on height and weight that applies to adult me
    ```bash
    git clone https://github.com/omar-mady-honeybadger/bmi_calculator.git
    cd bmi_calculator
-
