@@ -37,10 +37,3 @@ BMI is a measure of body fat based on height and weight that applies to adult me
 | Normal weight  | 18.5–24.9 |
 | Overweight     | 25–29.9   |
 | Obese          | ≥ 30      |
- 
-## 📦 Installation
- 
-1. *Clone the repository*
-   ```bash
-   git clone https://github.com/omar-mady-honeybadger/t9.git
-   cd t9
